@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		8CCEBD2E2B07E33C008E005D /* VehicleProject */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = VehicleProject; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CCEBD312B07E33C008E005D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8CCEBD382B07E352008E005D /* Vehicle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Vehicle.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				8CCEBD312B07E33C008E005D /* main.cpp */,
+				8CCEBD382B07E352008E005D /* Vehicle.h */,
 			);
 			path = VehicleProject;
 			sourceTree = "<group>";
